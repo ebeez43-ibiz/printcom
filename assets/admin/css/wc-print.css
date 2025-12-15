@@ -1,0 +1,17 @@
+ul.wc-tabs li.active.wc-print-additional-fields_options a{
+    background-color: #ff0048 !important;
+    color:#ffffff !important;
+}
+
+#woocommerce-product-data ul.wc-tabs li.wc-print-additional-fields_options a::before{
+    font-family:Dashicons !important;
+    content:"\f111" !important;
+    speak: never;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    text-decoration: none;
+}
+

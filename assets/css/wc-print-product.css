@@ -1,0 +1,357 @@
+#shipping-possibilities-wrapper,
+#delivery-promise-wrapper{
+    display: block;
+    height: auto;
+    background: #FFFFFF;
+    margin-bottom: 20px;
+    margin-bottom: 2rem;
+}
+.deliveryPromiseRadio{
+    display: none;
+}
+.wc-print-error{
+    color: #fff;
+    background: #b20000;
+    border: 1px solid #b20000;
+    padding: 10px 0 0px 10px;
+}
+.wc-print-error ul{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.date-picker__summary[data-v-bed239d6] {
+    background: #fff;
+    padding: 12px;
+    border-radius: 8px;
+}
+.date-picker__summarytitle
+{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.date-picker__optionswrapper {
+    margin-top: 8px;
+}
+.mbl-10{
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.mbl-5{
+    margin-bottom: 5px;
+    margin-left: 0px;
+}
+.date-picker__options{
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    grid-gap: 12px;
+}
+.datepicker-date--active{
+    border-color: #ffd900;
+    background: #ffd900;
+    color: #fff;
+}
+.datepicker-date {
+    min-height: 200px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    border: 2px solid #f2f2f2;
+    border-top-color: rgb(242, 242, 242);
+    border-right-color: rgb(242, 242, 242);
+    border-bottom-color: rgb(242, 242, 242);
+    border-left-color: rgb(242, 242, 242);
+    border-radius: 4px;
+    padding: 12px;
+    cursor: pointer;
+}
+.datepicker-date__dates {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+}
+.datepicker-date__latestdate {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    color: #999797;
+    margin-bottom: 4px;
+}
+.datepicker-date--active .datepicker-date__date,
+.datepicker-date--active .datepicker-date__latestdate {
+    color: #fff;
+}
+.datepicker-date__date {
+    text-transform: uppercase;
+    font-family: Nephrite,sans-serif;
+    font-weight: 600;
+    letter-spacing: -.2px;
+    font-size: 15px;
+    line-height: 2.2rem;
+    color: #747373;
+    margin-top: 8px;
+}
+.cmsShorttext {
+    line-height: inherit;
+    font-weight: inherit;
+    font-family: inherit;
+}
+.datepicker-date__prices{
+    min-height: 64px;
+    padding-top: 4px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+.datepicker-date__prices::before {
+    content: "";
+    padding-top: 12px;
+    display: block;
+    height: 2px;
+    background: url(/wp-content/plugins/woocommerce-print/assets/img/seperator.svg) repeat-x;
+}
+.date-picker__dp-wrapper {
+    -webkit-box-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 4px;
+}
+.woocommerce.single-product button.wc_print_add_to_cart_button.button{
+    width: 100%;
+}
+.selector__calculated-price{
+    margin-bottom: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+.btn-check {
+    position: absolute;
+    clip: rect(0,0,0,0);
+    pointer-events: none;
+}
+.btn-check:active + .btn-secondary, .btn-check:checked + .btn-secondary, .btn-secondary.active, .btn-secondary:active, .show > .btn-secondary.dropdown-toggle {
+    background-color: #d5dde8;
+}
+.selector__panel {
+    background: #fff;
+    height: auto;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    padding: 12px;
+    margin-bottom: 24px;
+    border-radius: 8px;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+.delivery-promise-switch {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    padding: 12px;
+    margin: 0 0 16px;
+    margin-bottom: 16px;
+}
+.delivery-promise-switch__title {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    margin-bottom: 8px;
+}
+.delivery-promise-switch__switch {
+    margin: -6px;
+    display: flex;
+    margin: -6px;
+}
+.delivery-promise-switch__option {
+    width: 100%;
+    position: relative;
+    color: #747373;
+    border: 2px solid #f2f2f2;
+    border-radius: 4px;
+    padding: 12px 16px;
+    text-align: center;
+    margin: 6px;
+    -webkit-transition: .3s cubic-bezier(.165,.84,.44,1);
+    transition: .3s cubic-bezier(.165,.84,.44,1);
+}
+.delivery-promise-switch__text {
+    font-size: 14.5px;
+}
+.delivery-promise-switch__text-title {
+    display: block;
+
+}
+.delivery-promise-switch__option{
+    cursor: pointer;
+}
+.delivery-promise-switch__price {
+    position: absolute;
+    bottom: 5px;
+    right: 16px;
+    font-size: 17px;
+}
+.delivery-promise-switch__option--active {
+    background: #ffd900;
+    border-color: #ffd900;
+    color: #fff;
+}
+
+.delivery-promise-switch__option--promise.delivery-promise-switch__option--active {
+    background: #ffd900;
+    border-color: #ffd900;
+}
+.delivery-promise-switch__option--promise:not(.disabled):hover {
+    border-color: #ffd900;
+}
+.price__output span {
+    color: #ffd900;
+}
+
+
+
+
+table#wc-print-variations th {
+    display: inline-block;
+    width:27%;
+    line-height:1.3;
+    float:left;
+
+}
+
+
+table#wc-print-variations td {
+    display: inline-block;
+    float:left;
+    margin-bottom:17px;
+    width:70%;
+    padding-bottom:8px;
+    margin-left:3%;
+
+}
+
+table#wc-print-variations .btn-check:checked + .btn-secondary {
+    padding: 0.3em 0.8em;
+    border-radius: 10px 100px / 120px;
+    background-color:#ffd900;
+    font-size:12px;
+    font-weight:900;
+    display:inline-block;
+    float:left;
+    margin-bottom:10px;
+
+}
+
+table#wc-print-variations .btn-check + .btn-secondary {
+    padding: 0.3em 0.8em;
+    border-radius: 10px 100px / 120px;
+    font-size:12px;
+    background-color:#e8e8e8;
+    font-weight:100;
+    display:inline-block;
+    float:left;	margin-bottom:10px;
+    margin-left:5px;
+    line-height:1.3;
+
+}
+.datepicker-date {
+    min-height: 70px;
+    border-radius: 9px;
+    padding: 12px;
+    display: inline-block;
+    width:48%;
+}
+
+table#wc-print-variations label{
+    font-size:13px;
+}
+
+.datepicker-date:hover {
+    border-color: #ffd900;
+}
+
+
+.datepicker-date--active {
+    background-color: #ffd900;
+}
+
+.selector__calculated-price {
+    padding-top:20px;
+}
+
+
+.selector__calculated-price span {
+    color: #000000;
+    font-size:30px;
+}
+
+.price__output:after {
+    content:" HT";}
+table#wc-print-variations .btn-check[disabled] + .btn-secondary{
+    background-color:#818589 !important;
+}
+@media (min-width: 922px) {
+    .is-wc-print-product .woocommerce-product-gallery {
+        width: 37% !important;
+    }
+    .is-wc-print-product .summary.entry-summary {
+        width: 60%  !important;;
+    }
+}
+.woocommerce-checkout-review-order-table td.product-name dl.variation dt,
+.woocommerce-cart-form__cart-item td.product-name dl.variation dt{
+    font-weight: bold;
+    float: left;
+}
+.woocommerce-checkout-review-order-table td.product-name dl.variation dd,
+.woocommerce-cart-form__cart-item td.product-name dl.variation dd{
+    color: #fdd500;
+    float: right;
+    font-weight: bold;
+}
+.woocommerce-checkout-review-order-table td.product-name dl.variation dd p,
+.woocommerce-cart-form__cart-item td.product-name dl.variation dd p{
+    font-weight: bold;
+}
+.hide-datepicker{
+        position: absolute;
+        z-index: -1;
+}
+
+
