@@ -1,0 +1,427 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Print Connector\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-26 11:01+0000\n"
+"PO-Revision-Date: 2024-10-26 12:32+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: wc-print\n"
+
+#: global-functions.php:20
+#, php-format
+msgid "%s does not exist."
+msgstr "%s n’existe pas."
+
+#: classes/admin/class-wc-print-settings.php:144
+msgid "'Are you sure you want to remove this section?"
+msgstr "‘Êtes-vous sûr de vouloir supprimer cette section ?"
+
+#: templates/woocommerce/print/delivery-promise.php:5
+msgid "Additional guarantee"
+msgstr "Garantie supplémentaire"
+
+#: classes/admin/class-wc-print-product.php:165
+msgid "Additional price"
+msgstr "Prix ​​supplémentaire"
+
+#: classes/sync/class-wc-print-product-sync.php:401
+msgid "Admin page"
+msgstr "Page d’administration"
+
+#: classes/admin/class-wc-print-settings.php:249
+msgid "API Password"
+msgstr "Mot de passe API"
+
+#: classes/admin/class-wc-print-settings.php:258
+msgid "API Url"
+msgstr "URL de l’API"
+
+#: classes/admin/class-wc-print-settings.php:240
+msgid "API Username"
+msgstr "Nom d’utilisateur de l’API"
+
+#: classes/front/class-wc-print-layout.php:121
+#: classes/front/class-wc-print-layout.php:122
+#: classes/front/class-wc-print-layout.php:140
+#: classes/front/class-wc-print-layout.php:141
+msgid "Are you sure you want to remove this section?"
+msgstr "Êtes-vous sûr de vouloir supprimer cette section ?"
+
+#: global-functions.php:400
+msgid "Bad query parameters."
+msgstr "Mauvais paramètres de requête."
+
+#: classes/admin/class-wc-print-settings.php:392
+msgid "Cancel from Print API Trigger"
+msgstr "Annuler à partir du déclencheur de l’API d’impression"
+
+#: classes/admin/class-wc-print-settings.php:385
+msgid "Cancel Trigger"
+msgstr "Déclencheur d’annulation"
+
+#: classes/admin/class-wc-print-settings.php:309
+msgid "City"
+msgstr "Ville"
+
+#: classes/admin/class-wc-print-settings.php:406
+#: classes/admin/class-wc-print-settings.php:411
+msgid "Commission"
+msgstr "Commission"
+
+#: classes/admin/class-wc-print-settings.php:318
+msgid "Company"
+msgstr "Société"
+
+#: classes/admin/class-wc-print-settings.php:275
+msgid "Default Category"
+msgstr "Catégorie par défaut"
+
+#: classes/admin/class-wc-print-settings.php:267
+msgid "Default Image"
+msgstr "Image par défaut"
+
+#: classes/admin/class-wc-print-settings.php:287
+msgid "Default Products Category"
+msgstr "Catégorie par défaut de produits"
+
+#: classes/admin/class-wc-print-settings.php:272
+msgid "Default Products Image"
+msgstr "Image par défaut des produits"
+
+#: classes/admin/class-wc-print-settings.php:221
+msgid "Default Shipping Address "
+msgstr "Adresse de livraison par défaut "
+
+#: classes/front/class-wc-print-order.php:120
+msgid "Delivery Date"
+msgstr "Date de livraison"
+
+#: classes/admin/class-wc-print-settings.php:396
+#: classes/admin/class-wc-print-settings.php:401
+msgid "Delivery Price"
+msgstr "Prix ​​de livraison"
+
+#: classes/front/class-wc-print-order.php:123
+msgid "delivery price"
+msgstr "prix de livraison"
+
+#: classes/front/class-wc-print-order.php:113
+msgid "Delivery promise"
+msgstr "Promesse de livraison"
+
+#: classes/admin/class-wc-print-settings.php:374
+msgid "Delivery Trigger"
+msgstr "Déclencheur de livraison"
+
+#: classes/front/class-wc-print-api.php:178
+msgid "Erreur interne du serveur"
+msgstr "Erreur interne du serveur"
+
+#: classes/admin/class-wc-print-settings.php:234
+msgid "Fees "
+msgstr "Frais "
+
+#: classes/admin/class-wc-print-settings.php:291
+msgid "First name"
+msgstr "Prénom"
+
+#: templates/woocommerce/print/delivery-promise.php:13
+msgid "Free"
+msgstr "Gratuit"
+
+#: classes/sync/class-wc-print-product-sync.php:400
+msgid "Front page"
+msgstr "Front page"
+
+#: classes/admin/class-wc-print-settings.php:225
+msgid "General "
+msgstr "Général "
+
+#. URI of the plugin
+msgid "https://ibiz.fr/wp-admin/admin.php?page=wc_print_settings"
+msgstr "https://ibiz.fr/wp-admin/admin.php?page=wc_print_settings"
+
+#: classes/admin/class-wc-print-product.php:166
+msgid "Ibiz Additional price"
+msgstr "Ibiz Prix supplémentaire"
+
+#: classes/admin/class-wc-print-product.php:167
+msgid "Ibiz Additional price."
+msgstr "Ibiz Prix supplémentaire."
+
+#: classes/admin/class-wc-print-product.php:105
+msgid "Ibiz Price"
+msgstr "Prix ​​​​Ibiz"
+
+#. Author of the plugin
+#. Author URI of the plugin
+msgid "ibiz.fr"
+msgstr "ibiz.fr"
+
+#: templates/admin/settings/sync-product.php:34
+msgid "Import"
+msgstr "Importer"
+
+#: templates/admin/settings/sync-product.php:6
+msgid "Import Product"
+msgstr "Importer un produit"
+
+#: classes/admin/class-wc-print-settings.php:110
+msgid "Invalid Woocommerce Order"
+msgstr "Commande Woocommerce invalide"
+
+#: classes/admin/class-wc-print-settings.php:300
+msgid "Last name"
+msgstr "Nom de famille"
+
+#: classes/sync/class-wc-print-order-sync.php:95
+msgid "No order has been sent"
+msgstr "Aucune commande n'a été envoyée"
+
+#: classes/admin/class-wc-print-settings.php:230
+msgid "Order "
+msgstr "Commande "
+
+#: classes/sync/class-wc-print-order-sync.php:72
+#, php-format
+msgid "Order canceled in Print %s."
+msgstr "Commande annulée lors de l’impression %s."
+
+#: classes/admin/class-wc-print-settings.php:104
+msgid "Order must not be empty"
+msgstr "La commande ne doit pas être vide"
+
+#: classes/sync/class-wc-print-order-sync.php:157
+#, php-format
+msgid "Order Sent to Print API Number %s."
+msgstr "Commande envoyée vers print.com API, numéro %s."
+
+#: classes/front/class-wc-print-address.php:53
+#: classes/front/class-wc-print-address.php:59
+msgid "Please complete the required fields"
+msgstr "Veuillez remplir les champs obligatoires"
+
+#: classes/front/class-wc-print-address.php:71
+msgid "Please enter a valid email address"
+msgstr "Mettez une adresse email valide"
+
+#: classes/front/class-wc-print-address.php:65
+msgid "Please enter a valid phone number"
+msgstr "Veuillez entrer un numéro de téléphone valide"
+
+#: classes/front/class-wc-print-checkout.php:161
+#, php-format
+msgid "Please select a delivery date for product \"%s\" to get the price."
+msgstr "Veuillez sélectionner une date de livraison pour le produit « %s » pour obtenir le prix."
+
+#: classes/front/class-wc-print-cart.php:175
+msgid "Please select a delivery date to get the product price"
+msgstr "Veuillez sélectionner une date de livraison pour obtenir le prix du produit"
+
+#: classes/front/class-wc-print-cart.php:155
+msgid "Please select one or more options to get the product price"
+msgstr "Veuillez sélectionner une ou plusieurs options pour obtenir le prix du produit"
+
+#: classes/front/class-wc-print-layout.php:123
+#: classes/front/class-wc-print-layout.php:142
+msgid "Please Wait"
+msgstr "Veuillez attendre"
+
+#: classes/admin/class-wc-print-settings.php:345
+msgid "Postcode / ZIP"
+msgstr "Code postal"
+
+#: classes/sync/class-wc-print-order-sync.php:70
+#: classes/sync/class-wc-print-order-sync.php:162
+#, php-format
+msgid "Print API Error: %s"
+msgstr "Erreur d’API d’impression : %s"
+
+#: classes/admin/class-wc-print-settings.php:254
+msgid "Print API Password"
+msgstr "Mot de passe de l’API print"
+
+#: classes/admin/class-wc-print-settings.php:217
+msgid "Print API Settings"
+msgstr "Paramètres de l’API d’impression"
+
+#: classes/admin/class-wc-print-settings.php:263
+msgid "Print API Url"
+msgstr "URL de l’API d’impression"
+
+#: classes/admin/class-wc-print-settings.php:245
+msgid "Print API Username"
+msgstr "Nom d’utilisateur de l’API d’impression"
+
+#: classes/admin/class-wc-print-product.php:142
+msgid "Print Fields"
+msgstr "Champs print.com"
+
+#: classes/admin/class-wc-print-product.php:54
+msgid "Print Order"
+msgstr "Commande d’impression"
+
+#: templates/admin/settings/sync-product.php:18
+#: templates/admin/settings/sync-product.php:22
+msgid "Print product SKU"
+msgstr "SKU du produit print"
+
+#: classes/admin/class-wc-print-product.php:174
+#: classes/admin/class-wc-print-product.php:175
+msgid "Print SKU"
+msgstr "SKU Print"
+
+#: classes/admin/class-wc-print-product.php:104
+msgid "Print Sku"
+msgstr "SKU Print"
+
+#: classes/admin/class-wc-print-product.php:176
+msgid "Print SKU."
+msgstr "SKU Print."
+
+#. %s: product id
+#: classes/front/class-wc-print-product.php:104
+msgid "Product creation failed, could not find original product"
+msgstr "La création du produit a échoué, impossible de trouver le produit d’origine"
+
+#: classes/front/class-wc-print-order.php:110
+msgid "Product price"
+msgstr "Prix ​​du produit"
+
+#: classes/admin/class-wc-print-settings.php:123
+msgid "Product sku must not be empty"
+msgstr "Le SKU du produit ne doit pas être vide"
+
+#: classes/front/class-wc-print-order.php:107
+msgid "Sales price"
+msgstr "Prix ​​de vente"
+
+#: classes/admin/class-wc-print-settings.php:381
+msgid "Send tp Print API Trigger"
+msgstr "Déclencheur d’envoie vers l’API print"
+
+#: classes/admin/class-wc-print-product.php:55
+msgid "Sent Order"
+msgstr "Envoyée commande"
+
+#: classes/admin/class-wc-print-settings.php:314
+msgid "Shipping address city"
+msgstr "Ville"
+
+#: classes/admin/class-wc-print-settings.php:323
+msgid "Shipping address company"
+msgstr "Société"
+
+#: classes/admin/class-wc-print-settings.php:359
+msgid "Shipping address email"
+msgstr "Adresse e-mail"
+
+#: classes/admin/class-wc-print-settings.php:296
+msgid "Shipping address first name"
+msgstr "Prénom"
+
+#: classes/admin/class-wc-print-settings.php:305
+msgid "Shipping address last name"
+msgstr "Nom de famille"
+
+#: classes/admin/class-wc-print-settings.php:368
+msgid "Shipping address phone"
+msgstr "Téléphone"
+
+#: classes/admin/class-wc-print-settings.php:332
+#: classes/admin/class-wc-print-settings.php:341
+#: classes/admin/class-wc-print-settings.php:350
+msgid "Shipping address postcode"
+msgstr "Code postal"
+
+#: templates/woocommerce/print/shipping/possibilities.php:5
+msgid "Shipping prices"
+msgstr "Prix ​​d’expédition"
+
+#: classes/admin/class-wc-print-settings.php:145
+msgid "Sku must not be empty"
+msgstr "Le SKU ne doit pas être vide"
+
+#: templates/woocommerce/print/delivery-promise.php:11
+msgid "Standard"
+msgstr "Standard"
+
+#: classes/front/class-wc-print-layout.php:74
+msgid "The most sold"
+msgstr "Le plus vendu"
+
+#: classes/sync/class-wc-print-product-sync.php:402
+#, php-format
+msgid "The product with SKU \"%s\" has been imported successfully"
+msgstr "Le produit avec le SKU « %s » a été importé avec succès"
+
+#: classes/admin/class-wc-print-product.php:160
+msgid "This is your Print content for the product "
+msgstr "Ceci est votre contenu d’impression pour le produit "
+
+#: classes/front/class-wc-print-order.php:116
+msgid "Total price"
+msgstr "Prix ​​total"
+
+#: classes/sync/class-wc-print-product-sync.php:323
+msgid "Unable to load print presets"
+msgstr "Impossible de charger les préréglages d’impression"
+
+#: classes/sync/class-wc-print-product-sync.php:311
+msgid "Unable to load print prices"
+msgstr "Impossible de charger les prix d’impression"
+
+#: classes/sync/class-wc-print-product-sync.php:317
+msgid "Unable to load print resellers"
+msgstr "Impossible de charger les revendeurs d’impression"
+
+#: templates/woocommerce/print/custom-sizes.php:3
+msgid "Width X Height"
+msgstr "Largeur X Hauteur"
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Woocommerce Print Connector"
+msgstr "Woocommerce Print Connector"
+
+#. PHP version.
+#: woocommerce-print.php:51
+#, php-format
+msgid "Woocommerce Print requires %s to be installed and active."
+msgstr "Woocommerce Print nécessite que %s soit installé et actif."
+
+#: classes/admin/class-wc-print-settings.php:212
+msgid "WooCommerce Print Settings"
+msgstr "Paramètres d’impression WooCommerce"
+
+#: classes/admin/class-wc-print-settings.php:65
+msgid "WooCommerces Print"
+msgstr "WooCommerces Print"
+
+#: classes/front/class-wc-print-layout.php:124
+#: classes/front/class-wc-print-layout.php:143
+msgid "Wrong username or pass"
+msgstr "Mauvais nom d’utilisateur ou mot de passe"
+
+#: classes/front/class-wc-print-product.php:109
+msgid "You are trying to configure a product that is not part of the Print category."
+msgstr "Vous essayez de configurer un produit qui ne fait pas partie de la catégorie Impression."
+
+#: classes/front/class-wc-print-checkout.php:146
+#, php-format
+msgid "You have not configured product %s."
+msgstr "Vous n’avez pas configuré le produit %s."
+
+#. PHP version.
+#: woocommerce-print.php:37
+#, php-format
+msgid "You need to be running PHP 5.3+ for Woocommerce Print to work. You're on %s."
+msgstr "Vous devez exécuter PHP 5.3+ pour que Woocommerce Print fonctionne. Vous êtes sur %s."
