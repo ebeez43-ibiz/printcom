@@ -1,0 +1,1 @@
+{"errorType":"Error","errorMessage":"[500] 3 INVALID_ARGUMENT: validation error:\n - requests[0].options: map must be at least 1 entries [map.min_pairs]","trace":["No traces"]}
